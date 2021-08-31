@@ -1,3 +1,3 @@
-var number = -5;
-var absoluteNumbeer = Math.abs(number);
-console.log(absoluteNumbeer);
+var number = Math.random() * 100;
+var result = Math.round(number)
+console.log(result);
