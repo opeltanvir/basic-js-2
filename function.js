@@ -6,7 +6,7 @@ function doubleIt(num){
 var first = doubleIt(5);
 var second = doubleIt(50);
 var total = first + second;
-console.log(total);
+ //console.log(total);
 
 
 function add(num1, num2){
@@ -14,4 +14,4 @@ function add(num1, num2){
     return result;
 }
 var sum = add(15, 17);
-console.log(sum);
+//console.log(sum);
