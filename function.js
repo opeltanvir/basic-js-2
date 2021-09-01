@@ -1,11 +1,8 @@
-function sayLoveYou(){
-    console.log('jaan o baby');
-    console.log('billy baby ...koi tumi');
+function doubleIt(num){
+    var result = num * 2;
+    console.log(result);
 }
 
-sayLoveYou();
-var date = 14;
-var place = 'restaurent';
-sayLoveYou(); 
-var hangoutplace = 'Tsc'
-sayLoveYou();
+doubleIt(5);
+doubleIt(50);
+doubleIt(500);
